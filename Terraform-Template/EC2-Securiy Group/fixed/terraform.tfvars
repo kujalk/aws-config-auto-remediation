@@ -1,0 +1,5 @@
+projectname                  = "lab"
+region                       = "ap-southeast-1"
+subnet-az                    = "ap-southeast-1a"
+ami-id                       = "ami-094bbd9e922dc515d"
+compliance-bucket-store-name = "ec2-config-storage-3344"
