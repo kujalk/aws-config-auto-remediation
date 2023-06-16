@@ -17,6 +17,11 @@ Method
 > terraform apply -auto-approve
 > To destroy resources -> terraform destroy -auto-approve
 
+Developer
+------------
+K.Janarthanan
 
 PS - Images folder contains the sample diagram of resources created as part of this template
+
+Blog - https://scripting4ever.wordpress.com/2023/06/16/achieve-aws-config-compliance-with-auto-remediation/
 
